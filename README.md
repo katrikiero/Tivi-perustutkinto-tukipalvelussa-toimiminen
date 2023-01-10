@@ -2,6 +2,10 @@
 
 Teknisessä tukipalvelussa toiminen -osa-alueen näytön harjoittelua ja muistiinpanoja sekä dokumentaatio.
 
+Näyttönä asennan SQL Apache web -palvelimen.
+
+<img width="722" alt="image" src="https://user-images.githubusercontent.com/111054270/211541499-05c568a1-89b5-41cf-beb3-bd6dfd17159e.png">
+
 ## Teknisessä tukipalvelussa toimiminen, 45 osp
 
 **Kuvaus:**
