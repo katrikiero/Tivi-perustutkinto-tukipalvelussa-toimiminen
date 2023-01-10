@@ -4,7 +4,7 @@ Teknisessä tukipalvelussa toiminen -osa-alueen näytön harjoittelua ja muistii
 
 Näyttönä asennan SQL Apache web -palvelimen.
 
-<img width="722" alt="image" src="https://user-images.githubusercontent.com/111054270/211541499-05c568a1-89b5-41cf-beb3-bd6dfd17159e.png">
+<img width="723" alt="Installing SQL Apache web server / @katrikiero" src="https://user-images.githubusercontent.com/111054270/211545369-b473bf81-f898-4105-8918-f0fabfa816ff.png">
 
 ## Teknisessä tukipalvelussa toimiminen, 45 osp
 
