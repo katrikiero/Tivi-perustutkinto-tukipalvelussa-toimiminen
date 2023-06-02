@@ -2,9 +2,9 @@
 
 Teknisessä tukipalvelussa toiminen -osa-alueen näytön harjoittelua ja muistiinpanoja sekä dokumentaatio.
 
-Näyttönä asennan SQL Apache web -palvelimen.
+Näyttönä asennan Ubuntu LAMP web -palvelimen.
 
-<img width="723" alt="Installing SQL Apache web server / @katrikiero" src="https://user-images.githubusercontent.com/111054270/211545369-b473bf81-f898-4105-8918-f0fabfa816ff.png">
+<img width="1142" alt="image" src="https://github.com/katrikiero/Tivi-perustutkinto-tukipalvelussa-toimiminen/assets/111054270/3bb68cc6-496e-44ab-8809-001af76c5471">
 
 ## Teknisessä tukipalvelussa toimiminen, 45 osp
 
