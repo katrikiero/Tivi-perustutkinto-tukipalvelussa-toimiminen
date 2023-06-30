@@ -4,7 +4,8 @@ Teknisessä tukipalvelussa toiminen -osa-alueen näytön harjoittelua ja muistii
 
 Näyttönä asennan Ubuntu LAMP web -palvelimen.
 
-<img width="1142" alt="image" src="https://github.com/katrikiero/Tivi-perustutkinto-tukipalvelussa-toimiminen/assets/111054270/3bb68cc6-496e-44ab-8809-001af76c5471">
+<img width="1222" alt="image" src="https://github.com/katrikiero/Tivi-perustutkinto-tukipalvelussa-toimiminen/assets/111054270/96cc6db2-efe4-449f-9c99-fd7aa97406b5">
+
 
 ## Teknisessä tukipalvelussa toimiminen, 45 osp
 
